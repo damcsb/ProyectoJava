@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751660719887",
+    "firebase_url": "https://chatrandom-c9a27.firebaseio.com",
+    "project_id": "chatrandom-c9a27",
+    "storage_bucket": "chatrandom-c9a27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751660719887:android:2655d4ef9c0dfe01bc287a",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751660719887-07mq0sr6i278hltucepie3e5nuqnjtkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapp",
+            "certificate_hash": "94113a2a846269e8d27c32c8a35545f47e24c724"
+          }
+        },
+        {
+          "client_id": "751660719887-8700v4kqgd31l7abcfc5pcv4u6453oot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEq1_dOE5WjhbG2dp8XZIgHsvJ52gHEf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751660719887-8700v4kqgd31l7abcfc5pcv4u6453oot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
